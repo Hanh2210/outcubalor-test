@@ -199,7 +199,7 @@ watchEffect(() => {
 }
 
 :deep(.navigation-drawer .info) {
-  position: fixed;
+  //position: fixed;
   width: 100%;
 }
 
