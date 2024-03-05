@@ -75,7 +75,6 @@ watchEffect(() => {
 
 <style lang="scss" scoped>
 .app-container {
-  font-family: Rubik;
   background-color: #ccc;
 }
 .navigation-drawer {
@@ -111,13 +110,11 @@ watchEffect(() => {
     > .wrap > .title {
       font-size: 10px;
       color: #e0f5ff;
-      font-family: Montserrat;
     }
 
     > .wrap > .subtitle {
       font-size: 12px;
       color: #fff;
-      font-family: Rubik;
       font-weight: 600;
     }
 
@@ -137,7 +134,6 @@ watchEffect(() => {
   }
 
   .footer {
-    font-family: Rubik;
     height: 40px;
     border: 1px solid #fff;
     padding: 11px 16px;
@@ -188,7 +184,6 @@ watchEffect(() => {
     font-size: 14px;
     font-weight: 500;
     color: #cad5f9;
-    font-family: Montserrat;
   }
 }
 
